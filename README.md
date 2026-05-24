@@ -352,15 +352,4 @@ python analyze.py
 }
 ```
 
----
-
-# 📄 License
-
-This repository is intended for academic and research use.
-
-Please ensure compliance with:
-- model licenses
-- dataset licenses
-- usage policies
-
 when reproducing experiments or redistributing outputs.
