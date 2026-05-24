@@ -1,8 +1,6 @@
 <div align="center">
 
-# ExposureQA
-
-### *Analyzing Factual Recall in Large Language Models through Relation-Aware Pretraining Support*
+# *Analyzing Factual Recall in Large Language Models through Relation-Aware Pretraining Support*
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)]()
 [![License](https://img.shields.io/badge/License-MIT-2EA44F)]()
