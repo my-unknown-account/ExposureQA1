@@ -351,5 +351,3 @@ python analyze.py
   year={2026}
 }
 ```
-
-when reproducing experiments or redistributing outputs.
